@@ -23,7 +23,7 @@ CineVault adalah sebuah platform katalog film yang memungkinkan pengguna untuk m
 
 ## Cara Menggunakan
 1. Clone repositori ini ke dalam folder htdocs di XAMPP (`C:\xampp\htdocs\`).
-2. Import file SQL yang disediakan (`cinevault_db.sql`) ke dalam database yang telah dibuat sebelumnya.
+2. Import file SQL yang disediakan di folder (`database\uas_pemweb.sql`) ke dalam database yang telah dibuat sebelumnya.
 3. Buka proyek di browser dengan alamat `http://localhost/nama_folder_proyek/`.
 
 ## Kontributor
