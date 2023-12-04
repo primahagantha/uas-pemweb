@@ -2,7 +2,7 @@
  include 'connect.php';
 
 if (isset($_SESSION["login"]) ? $_SESSION["login"] : false) {
-  header("Location: index.php");
+  header("Location: ../index.php");
   exit;
 }
 
